@@ -8,13 +8,17 @@ The dashboard explores discovery trends, planet characteristics, and the possibi
 
 ## 📌 Table of Contents
 
-[Project Overview](#Project Overview)
-[Dataset
-[Dashboard Features
-[Key Insights
-[Dashboard Snapshots
-[Conclusion
-[Author
+## 📌 Table of Contents
+
+* [Project Overview](#project-overview)
+* [Objectives](#objectives)
+* [Dashboard Snapshots](#dashboard-snapshots)
+* [Dashboard Pages](#dashboard-pages)
+* [Key Insights](#key-insights)
+* [Tools & Technologies Used ](#tools-&-technologies-used)
+* [Dataset](#dataset)
+* [Skills Demonstrated](#skills-demonstrated)
+* [Contact](#contact)
 
 ---
 
@@ -153,18 +157,6 @@ The dataset used in this project is based on **NASA’s Exoplanet Archive**, whi
 * Discovery year
 * Telescope used
 * Temperature
-
----
-
-## 📷 Dashboard Preview
-
-Add your screenshots in the repository and link them here.
-
-images/
-
-* discovery_era.png
-* planets_analysis.png
-* habitable_planets.png
 
 ---
 
