@@ -8,8 +8,6 @@ The dashboard explores discovery trends, planet characteristics, and the possibi
 
 ## 📌 Table of Contents
 
-## 📌 Table of Contents
-
 * [Project Overview](#project-overview)
 * [Objectives](#objectives)
 * [Dashboard Snapshots](#dashboard-snapshots)
