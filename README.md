@@ -1,6 +1,24 @@
 # 🌌 NASA Exoplanet Discovery Analysis (Power BI Dashboard)
+##🚀 Exoplanet Discovery Dashboard
 
-## 📌 Project Overview
+An interactive Power BI dashboard that analyzes exoplanet discoveries made by NASA missions and telescopes.
+The dashboard explores discovery trends, planet characteristics, and the possibility of habitable planets beyond our solar system using clean visuals, KPIs, and interactive filters.
+
+---
+
+##📌 Table of Contents
+
+Project Overview
+Dataset
+Dashboard Features
+Key Insights
+Dashboard Snapshots
+Conclusion
+Author
+
+---
+
+## Project Overview
 
 This project explores **exoplanet discoveries using NASA’s dataset** and visualizes how planets outside our solar system have been discovered over time. The dashboard highlights discovery trends, telescope contributions, planet types, and the possibility of **habitable planets similar to Earth**.
 
