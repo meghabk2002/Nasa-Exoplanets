@@ -20,6 +20,14 @@ The goal of this project is to:
 
 ---
 
+## 📷 Dashboard Snapshot
+
+![Discovery Era Dashboard](https://github.com/meghabk2002/Nasa-Exoplanets/blob/main/The%20Discovery%20Era.png?raw=true)
+![Planet Analysis Dashboard](https://github.com/meghabk2002/Nasa-Exoplanets/blob/main/The%20Planets.png?raw=true)
+![Another Earth Dashboard](https://github.com/meghabk2002/Nasa-Exoplanets/blob/main/Another%20Earth.png?raw=true)
+
+---
+
 ## 📊 Dashboard Pages
 
 ### 1️⃣ Discovery Era
